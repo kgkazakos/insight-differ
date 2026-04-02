@@ -1,0 +1,25 @@
+Mobile Checkout Usability Study — Q3 2025
+
+## Executive Summary
+
+This study examined the checkout experience for 24 participants across iOS and Android devices over a two-week period. Participants were recruited from our active user base and screened for at least two prior purchase completions.
+
+## Key Findings
+
+Users consistently reported that the payment step felt disconnected from the rest of the flow. The sudden shift to a third-party payment screen destroyed the sense of continuity that users had built up during browsing and cart review.
+
+Trust was the dominant concern during the payment step. Participants frequently paused at the payment screen to check for security indicators, with 18 of 24 participants explicitly looking for the padlock icon or HTTPS in the address bar before entering card details.
+
+The one-tap payment options, including Apple Pay and Google Pay, were strongly preferred by users who had them configured. Participants described these as "frictionless" and "the way it should always work." Users without these options set up expressed frustration at having to re-enter card details.
+
+Form field errors were the single most common cause of abandonment in the observed sessions. When a card number or expiry date was rejected, participants struggled to identify which field contained the error, particularly on smaller screens.
+
+Delivery date transparency emerged as a late-stage trust signal. Users who saw a specific delivery date estimate before entering payment details were significantly more likely to complete the purchase than those who saw only a shipping tier label such as "Standard" or "Express."
+
+Address auto-fill performed reliably on iOS but inconsistently on Android. Six of the twelve Android participants had to manually correct at least one auto-filled field, introducing friction that was not present for iOS users.
+
+The progress indicator at the top of the checkout flow was largely ignored. Only three participants mentioned it unprompted; the rest focused entirely on the current screen.
+
+## Recommendations
+
+Embed the payment step within the native app shell rather than redirecting to a WebView. Expand one-tap payment availability. Improve inline field validation with specific, actionable error messages. Show estimated delivery dates on the payment confirmation screen.

@@ -1,0 +1,27 @@
+Payment Experience Diary Study — Q4 2025
+
+## Overview
+
+Sixteen participants completed a two-week diary study tracking their real purchase behaviours across three e-commerce platforms. Participants submitted entries immediately after each checkout attempt, capturing in-the-moment reactions rather than retrospective recall.
+
+## Key Findings
+
+Contrary to earlier lab findings, participants rarely noticed or cared about the WebView transition during payment. Most described the checkout as a single continuous experience regardless of whether payment happened inside or outside the native app shell.
+
+Security concerns were not prominent in the diary entries. Only two of sixteen participants mentioned looking for security indicators during payment. The majority proceeded directly to entering card details without any apparent hesitation or trust verification behaviour.
+
+One-tap payment options were used when available but participants described them as a convenience rather than a necessity. Several participants noted that they actively preferred entering card details manually for high-value purchases to maintain a sense of control and double-check the amount.
+
+Error recovery was less problematic than anticipated. Participants who encountered form errors generally resolved them quickly and did not abandon the purchase. The diary entries suggest that error tolerance is higher in real-world conditions than in observed usability sessions.
+
+Delivery date information was important but primarily as a pre-purchase decision factor rather than a payment-stage signal. Participants checked delivery estimates on the product page or cart, not during the payment step itself.
+
+Address auto-fill was described positively by both iOS and Android participants. No diary entries mentioned having to correct auto-filled address fields on any platform.
+
+The progress indicator was mentioned by seven of sixteen participants as a helpful orientation cue, particularly on longer checkouts with four or more steps.
+
+Social proof elements such as recent purchase counts and review scores continued to influence decisions even at the payment stage. Several participants abandoned checkout after noticing that a product had fewer reviews than they expected.
+
+## Recommendations
+
+Focus checkout optimisation efforts on pre-payment clarity — product information, delivery estimates, and social proof — rather than the payment mechanism itself. Address the gap in social proof research from earlier studies.
