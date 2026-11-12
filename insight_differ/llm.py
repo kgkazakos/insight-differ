@@ -103,7 +103,7 @@ def enrich_anthropic(result: "DiffResult", model: str = "claude-haiku-4-5-202510
     return message.content[0].text.strip()
 
 
-def enrich_gemini(result: "DiffResult", model: str = "gemini-3.1-pro-preview") -> str:
+def enrich_gemini(result: "DiffResult", model: str = "gemini-4-argon") -> str:
     try:
         from google import genai  # type: ignore
         from google.genai import types  # type: ignore
