@@ -75,7 +75,7 @@ The tool works fully without any API key. LLM backends add a narrative synthesis
 |---------|-------|---------|
 | OpenAI (gpt-4o-mini) | `pip install insight-differ[openai]` | `OPENAI_API_KEY` |
 | Anthropic (claude-haiku-4-5-20251001) | `pip install insight-differ[anthropic]` | `ANTHROPIC_API_KEY` |
-| Gemini (gemini-3.1-pro-preview) | `pip install insight-differ[gemini]` | `GEMINI_API_KEY` |
+| Gemini (gemini-4-argon) | `pip install insight-differ[gemini]` | `GEMINI_API_KEY` |
 
 ---
 
